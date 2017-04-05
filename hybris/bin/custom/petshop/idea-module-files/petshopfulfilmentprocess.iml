@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="CUSTOM" importedAsReadOnly="false" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration>
+        <fileset id="petshopfulfilmentprocessspring" name="petshopfulfilmentprocessspring" removed="false">
+          <file>file://$MODULE_DIR$/../petshopfulfilmentprocess/resources/petshopfulfilmentprocess-spring.xml</file>
+        </fileset>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/../petshopfulfilmentprocess/classes" />
+    <output-test url="file://$MODULE_DIR$/../petshopfulfilmentprocess/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../petshopfulfilmentprocess">
+      <sourceFolder url="file://$MODULE_DIR$/../petshopfulfilmentprocess/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../petshopfulfilmentprocess/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../petshopfulfilmentprocess/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../petshopfulfilmentprocess/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../petshopfulfilmentprocess/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../petshopfulfilmentprocess/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../petshopfulfilmentprocess/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../petshopfulfilmentprocess/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../petshopfulfilmentprocess/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../petshopfulfilmentprocess/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../petshopfulfilmentprocess/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../petshopfulfilmentprocess/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../petshopfulfilmentprocess/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../petshopfulfilmentprocess/backoffice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../petshopfulfilmentprocess/backoffice/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../petshopfulfilmentprocess/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../petshopfulfilmentprocess/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../petshopfulfilmentprocess/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../petshopfulfilmentprocess/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../petshopfulfilmentprocess/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../petshopfulfilmentprocess/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../petshopfulfilmentprocess/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../petshopfulfilmentprocess/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../petshopfulfilmentprocess/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../petshopfulfilmentprocess/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../petshopfulfilmentprocess/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../petshopfulfilmentprocess/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../petshopfulfilmentprocess/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../petshopfulfilmentprocess/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../petshopfulfilmentprocess/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../petshopfulfilmentprocess/web/webroot/WEB-INF/classes" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../petshopfulfilmentprocess/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../petshopfulfilmentprocess/lib" recursive="true" />
+      </library>
+    </orderEntry>
+  </component>
+</module>

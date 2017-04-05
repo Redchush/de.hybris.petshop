@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="CUSTOM" importedAsReadOnly="false" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration>
+        <fileset id="petshopcockpitsspring" name="petshopcockpitsspring" removed="false">
+          <file>file://$MODULE_DIR$/../petshopcockpits/resources/petshopcockpits-spring.xml</file>
+        </fileset>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/../petshopcockpits/classes" />
+    <output-test url="file://$MODULE_DIR$/../petshopcockpits/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../petshopcockpits">
+      <sourceFolder url="file://$MODULE_DIR$/../petshopcockpits/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../petshopcockpits/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../petshopcockpits/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../petshopcockpits/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../petshopcockpits/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../petshopcockpits/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../petshopcockpits/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../petshopcockpits/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../petshopcockpits/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../petshopcockpits/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../petshopcockpits/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../petshopcockpits/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../petshopcockpits/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../petshopcockpits/backoffice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../petshopcockpits/backoffice/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../petshopcockpits/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../petshopcockpits/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../petshopcockpits/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../petshopcockpits/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../petshopcockpits/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../petshopcockpits/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../petshopcockpits/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../petshopcockpits/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../petshopcockpits/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../petshopcockpits/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../petshopcockpits/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../petshopcockpits/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../petshopcockpits/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../petshopcockpits/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../petshopcockpits/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../petshopcockpits/web/webroot/WEB-INF/classes" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../petshopcockpits/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../petshopcockpits/lib" recursive="true" />
+      </library>
+    </orderEntry>
+  </component>
+</module>
