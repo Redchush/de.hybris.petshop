@@ -27,8 +27,9 @@
 	<import resource="classpath:/petshopcore/integration/hot-folder-common-spring.xml"/>
 
 	<!-- SystemSetup for the PetshopCore -->
-	<bean id="acceleratorCoreSystemSetup" class="de.hybris.petshop.core.setup.CoreSystemSetup"
-	       parent="abstractCoreSystemSetup"/>
+	<bean id="acceleratorCoreSystemSetup"
+				class="de.hybris.petshop.core.setup.CoreSystemSetup"
+	      parent="abstractCoreSystemSetup"/>
 
 	<!-- Solr field value providers -->
 	
@@ -433,6 +434,17 @@
 	      class="de.hybris.petshop.core.strategies.impl.ApparelSizeProductReferenceTargetStrategy">
 		<property name="commerceCategoryService" ref="commerceCategoryService"/>
 		<property name="rootCategoryCode" value="categories"/>
+	</bean>
+
+	<!--custom-->
+	<bean class="org.springframework.beans.factory.config.PropertyPlaceholderConfigurer">
+		<property name="properties" ref="hybrisProperties"/>
+	</bean>
+
+	<bean id="loyaltyPointConfiguration" class="de.hybris.petshop.config.LoyaltyPointConfiguration">
+		<property name="orderThreshold" value="${config.loyaltypoint.orderThreshold}"/>
+		<property name="currency" value="${config.loyaltypoint.currency}"/>
+		<property name="maxOrderPercentage" value="${config.loyaltypoint.maxOrderPercentage}"/>
 	</bean>
 	
 </beans>
